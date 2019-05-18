@@ -1,0 +1,57 @@
+.wrapper-image {
+    width: 100%;
+    /* height: 100px; */
+}
+
+.titulo {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid purple;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.item {
+    margin-bottom: 20px;
+
+    padding: 20px;
+    border-bottom: 1px solid purple;
+}
+
+.titulo-item {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.footer {
+
+    background: #b661b5;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-top: 100px;
+    height: 150px;
+}
+
+.input-anotacao {
+    height: 40px;
+    width: 100%;
+}
+
+button {
+    background: purple;
+    color: white;
+    border: 0;
+    width: 100%;
+    height: 40px;
+}
+input {
+    padding: 5px;
+}
